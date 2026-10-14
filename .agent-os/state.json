@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "active_task": null,
+  "owner": null,
+  "branch": null,
+  "pr": null,
+  "blocking_decision": null,
+  "next_action": "Load core and inspect repository state",
+  "last_verified": null,
+  "context_rotations": 0,
+  "notes": "Template. Replace with live state on first run."
+}
